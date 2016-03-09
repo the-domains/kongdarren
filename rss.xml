@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[KongDarren]]></title>
         <description><![CDATA[KongDarren]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kongdarren/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 04:59:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 01:51:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kongdarren/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Award winning toilet, nice seamless design, I wonder how much the budget of this project?!]]></title>
+            <description><![CDATA[<article><h1>Award winning toilet, nice seamless design, I wonder how much the budget of this project?!</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/50f367f5-c381-46e7-888e-218bac49923d.png"></article>]]></description>
+            <link>https://thegrid.ai/kongdarren/award-winning-toilet-nice-seamless-design-i-wonder-how-muc/index.html</link>
+            <guid isPermaLink="false">63f039b3-dc32-4de3-ae34-e7ea85ccfd7d</guid>
+            <pubDate>Wed, 09 Mar 2016 01:49:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Geometry black and white journal]]></title>
-            <description><![CDATA[<article><h1>Geometry black and white journal</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6a3fcb8-c129-4546-a44f-bea9c1945e61.png"></article>]]></description>
-            <link>undefinedgeometry-black-and-white-journal/index.html</link>
+            <description><![CDATA[<article><h1>Geometry black and white journal</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f7f7a343ce9e411ece2c8d9314e6014086de9c8.png"></article>]]></description>
+            <link>https://thegrid.ai/kongdarren/geometry-black-and-white-journal/index.html</link>
             <guid isPermaLink="false">af267eb8-1e88-42ea-bc9f-397c25c7e781</guid>
             <pubDate>Tue, 08 Mar 2016 04:59:05 GMT</pubDate>
         </item>
